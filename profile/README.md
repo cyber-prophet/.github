@@ -1,1 +1,1 @@
-Cyber-Prophet develops projects wit knowledge graphs applications. 
+Cyber-Prophet develops projects with knowledge graphs applications. 
