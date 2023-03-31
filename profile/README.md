@@ -1,1 +1,1 @@
-Cyber-Prophet develops projects with information-graphs applications. 
+Nushell, Cyber, knowledge graphs
