@@ -1,1 +1,1 @@
-Nushell, Cyber, knowledge graphs
+Nushell, CyberGraphs
