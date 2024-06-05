@@ -1,1 +1,1 @@
-Nushell, CyberGraphs
+Nushell, cybergraphs
