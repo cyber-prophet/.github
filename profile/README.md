@@ -1,1 +1,1 @@
-Nushell, cybergraphs
+Pioneering cybergraph applications. My way.
